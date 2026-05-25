@@ -4,13 +4,13 @@
 
 > Search the IMPPAT phytochemical database, prepare ligands and receptors, run batch docking, validate with RMSD, and visualize interactions — all from a single Streamlit interface.
 
-**Supported engines:** AutoDock Vina | VinaXB | GNINA | Uni-Dock
+**Supported engines:** AutoDock Vina 1.2.7 | VinaXB | GNINA | Uni-Dock
 
 ---
 
 ## ✨ What it does
 
-| | |
+| | Feature |
 |---|---|
 | 🌿 | **IMPPAT natural product search** — query the IMPPAT phytochemical database and collect compound records with SMILES for direct docking input |
 | 🔬 | **Single & batch docking** — dock any number of natural product ligands against a prepared receptor |
